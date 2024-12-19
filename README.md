@@ -17,7 +17,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-Não tive um retorno positivo da minha tentativa de clone de site, o meu botão de comfirmar os dados não redireciona para o site real do facebook e por esse motivo imagino que também não consgia armazenar o usuario e senha.
+Não tive um retorno positivo da minha tentativa de clone de site, o meu botão de confirmar os dados não redireciona para o site real do facebook e por esse motivo imagino que também não consgia armazenar o usuario e senha.
 não nego que ja fiquei feliz com o retorno de sim ele é possivel de acessar então vou culpar o mal funcionamento há atualizações que pode ter ocorrido na segurança do facebook
 
 ![Alt text](./imagem_2024-12-19_144854715.png "Optional title")
